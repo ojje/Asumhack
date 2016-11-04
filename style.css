@@ -1,0 +1,49 @@
+body {
+    background-image: url("img/kattbild.jpg");
+	background-size:     cover;  
+    background-repeat: no-repeat; 
+}
+h1 {
+	color:red
+}
+div {
+	float:left;
+	background-color:black;
+	color:lime;
+    width: 15%;
+    border: 12px solid green;
+    padding: 25px;
+    margin: 1%;
+}
+
+right {
+	float:right;
+	background-color:black;
+	color:lime;
+    width: 15%;
+    border: 12px solid green;
+    padding: 25px;
+    margin: 1%;
+}
+div3 {
+	display:block;
+	background-color:black;
+	color:lime;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+footer {
+	width: 25%;
+	position: fixed;
+	left: 50%;
+	bottom:10px;
+margin-left: -13%;
+	background-color:black;
+	background: rgba(0,0,0, .5);
+	color:lime;
+    border: 3px solid green;
+    padding: 5px;
+}
